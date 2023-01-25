@@ -16,7 +16,7 @@
 # 웹(WEB) 개발
 * 1일차(4h) 
 	- 오리엔테이션, 실습환경 구축
-		- 자바, STS(Spring Tool Suit), 메이븐, MySQL 설치 및 설정
+		- 자바, 이클립스 EE, 메이븐, MySQL 설치 및 설정
 		
 		- <a href='https://github.com/yonggyo1125/curriculum300H/tree/main/6.Spring%20%26%20Spring%20Boot(75%EC%8B%9C%EA%B0%84)/1%EC%9D%BC%EC%B0%A8(3h)%20-%20%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%2C%20%EB%A9%94%EC%9D%B4%EB%B8%90%2C%20%EC%8A%A4%ED%94%84%EB%A7%81%20DI'>강의자료1</a><br>
 	- 웹 기초 
